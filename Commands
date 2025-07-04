@@ -1,0 +1,15 @@
+**LINUX COMMANDS**
+# dhclient -r -- it is used when the internet is unstable
+# dhclient    -- after the unstablity to check network
+# ping google.com -- where the to see network is working or not
+# sudo apt update -- to update the system
+# sudo apt upgrade -- to upgrade the system
+# reboot -- to reboot
+# sudo su -- to get root user or root access
+# sudo apt install <target> -- to install any tool 
+# ls -- it shows the information present in paticular
+# ls | grep <> -- shows in which it stores or present
+# cd -- to open a particular directory
+# mkdir -- to make new directory
+# cat <textfile> -- to open a text file and see
+# ifconfig -- to see the ipadress
