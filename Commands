@@ -13,3 +13,12 @@
 # mkdir -- to make new directory
 # cat <textfile> -- to open a text file and see
 # ifconfig -- to see the ipadress
+# drwx -- directory,read,write,excute -- chmod777
+# pwd -- present working directory
+# rm -r -- remove directory or delete
+# touch 1.txt -- create only empty file
+# nano 1.txt -- we can modify the text -- (after edit) ctrl o, enter,ctrl x.
+# -la -- overall infomation 
+# cat passwd -- our usernames is stored
+# sudo cat shadow -- our passwords is storred
+#
