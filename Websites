@@ -8,4 +8,9 @@
 # dorkgpt    -- https://www.dorkgpt.com/       -- to create query (we can generate prompt)
 # pentest tool -- https://pentest-tools.com/   -- it helps direct link to google for searching any pages.(ex domain,loginpage etc)
 ## netcraft tool -- https://www.netcraft.com/   -- overall information of an website (footprinting)
-# 
+## OSINT TOOL    -- https://osintframework.com/  -- overall information (footprinting)
+# havebbenpned   -- https://haveibeenpwned.com/  -- used to check email is hacked or not
+# Dehashed       -- https://dehashed.com/        -- date in internet our information.
+# leakix         -- https://leakix.net/          -- same as dehashed and will get more information.
+# whois          -- https://www.whois.com/       -- indepth information about website
+#
